@@ -1,0 +1,3 @@
+galaxy 8:990000:samsung
+iphone8plus:1000000:apple
+G10:9800000:LG
